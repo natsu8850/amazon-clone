@@ -7,4 +7,4 @@
 
 
 ### AMAZON 2.0 CLONE WITH NEXT JS
-Visit the link to check out a demo..
+Visit the link to check out a demo...
